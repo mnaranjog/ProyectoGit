@@ -10,6 +10,7 @@ public class EjemploGit {
 		String nombre="Manuel";
 		
 		System.out.print("nombre");
+		System.out.println("Otro mensaje");
 	}
 
 }
